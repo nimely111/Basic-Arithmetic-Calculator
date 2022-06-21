@@ -4,3 +4,5 @@ const num1 = parseFloat(prompt('Enter Num1: '));//convert string to number
 const operator = prompt('Enter Operator to use: (+, -, *, /)');
 const num2 = parseFloat(prompt('Enter Num2: '));//convert string to number to perform calculation instead of concatenating
 
+
+
